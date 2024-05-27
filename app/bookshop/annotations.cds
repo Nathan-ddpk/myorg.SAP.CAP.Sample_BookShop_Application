@@ -1,1 +1,0 @@
-using Bookshop as service from '../../srv/cat-service';
