@@ -1,0 +1,4 @@
+specVersion: "2.5"
+metadata:
+  name: myorg.sap.cap.bookshop.ui.bookshop
+type: application
