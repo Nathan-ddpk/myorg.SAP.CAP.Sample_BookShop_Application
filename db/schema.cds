@@ -4,7 +4,7 @@ namespace db;
 
 entity Books : managed {
     Key ID: Integer;
-    name: String(100);
+    title: String(100);
     descr: String(1000);
     author: Association to Authors;
     stock: Integer
