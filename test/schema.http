@@ -1,0 +1,10 @@
+### Submit Order
+Post http://localhost:4004/odata/v4/bookshop/Books
+Content-Type: application/json
+
+{
+  "ID": 234,
+  "name": "Book2",
+  "descr": "Lorem Ipsum",
+  "author_ID": 23
+}
