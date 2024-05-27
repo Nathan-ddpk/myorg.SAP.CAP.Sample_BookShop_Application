@@ -28,8 +28,5 @@
         }
       }
     }
-  },
-  "sapux": [
-    "app/booklist"
-  ]
+  }
 }
